@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\ConcertApp\\ConcertApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDC88CB-03E1-4FFF-9E89-4120CCAE5647}|ConcertApp.Web\\ConcertApp.Web.csproj|c:\\users\\dejan\\desktop\\fakultet\\3 godina\\semestar 6\\integrirani sistemi\\repos\\concertapp\\concertapp\\concertapp.web\\views\\concerttickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BDC88CB-03E1-4FFF-9E89-4120CCAE5647}|ConcertApp.Web\\ConcertApp.Web.csproj|solutionrelative:concertapp.web\\views\\concerttickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDC88CB-03E1-4FFF-9E89-4120CCAE5647}|ConcertApp.Web\\ConcertApp.Web.csproj|c:\\users\\dejan\\desktop\\fakultet\\3 godina\\semestar 6\\integrirani sistemi\\repos\\concertapp\\concertapp\\concertapp.web\\controllers\\concertticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDC88CB-03E1-4FFF-9E89-4120CCAE5647}|ConcertApp.Web\\ConcertApp.Web.csproj|solutionrelative:concertapp.web\\controllers\\concertticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDC88CB-03E1-4FFF-9E89-4120CCAE5647}|ConcertApp.Web\\ConcertApp.Web.csproj|c:\\users\\dejan\\desktop\\fakultet\\3 godina\\semestar 6\\integrirani sistemi\\repos\\concertapp\\concertapp\\concertapp.web\\models\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDC88CB-03E1-4FFF-9E89-4120CCAE5647}|ConcertApp.Web\\ConcertApp.Web.csproj|solutionrelative:concertapp.web\\models\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDC88CB-03E1-4FFF-9E89-4120CCAE5647}|ConcertApp.Web\\ConcertApp.Web.csproj|c:\\users\\dejan\\desktop\\fakultet\\3 godina\\semestar 6\\integrirani sistemi\\repos\\concertapp\\concertapp\\concertapp.web\\views\\concerts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BDC88CB-03E1-4FFF-9E89-4120CCAE5647}|ConcertApp.Web\\ConcertApp.Web.csproj|solutionrelative:concertapp.web\\views\\concerts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDC88CB-03E1-4FFF-9E89-4120CCAE5647}|ConcertApp.Web\\ConcertApp.Web.csproj|c:\\users\\dejan\\desktop\\fakultet\\3 godina\\semestar 6\\integrirani sistemi\\repos\\concertapp\\concertapp\\concertapp.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDC88CB-03E1-4FFF-9E89-4120CCAE5647}|ConcertApp.Web\\ConcertApp.Web.csproj|solutionrelative:concertapp.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDC88CB-03E1-4FFF-9E89-4120CCAE5647}|ConcertApp.Web\\ConcertApp.Web.csproj|c:\\users\\dejan\\desktop\\fakultet\\3 godina\\semestar 6\\integrirani sistemi\\repos\\concertapp\\concertapp\\concertapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BDC88CB-03E1-4FFF-9E89-4120CCAE5647}|ConcertApp.Web\\ConcertApp.Web.csproj|solutionrelative:concertapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDC88CB-03E1-4FFF-9E89-4120CCAE5647}|ConcertApp.Web\\ConcertApp.Web.csproj|c:\\users\\dejan\\desktop\\fakultet\\3 godina\\semestar 6\\integrirani sistemi\\repos\\concertapp\\concertapp\\concertapp.web\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDC88CB-03E1-4FFF-9E89-4120CCAE5647}|ConcertApp.Web\\ConcertApp.Web.csproj|solutionrelative:concertapp.web\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDC88CB-03E1-4FFF-9E89-4120CCAE5647}|ConcertApp.Web\\ConcertApp.Web.csproj|c:\\users\\dejan\\desktop\\fakultet\\3 godina\\semestar 6\\integrirani sistemi\\repos\\concertapp\\concertapp\\concertapp.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDC88CB-03E1-4FFF-9E89-4120CCAE5647}|ConcertApp.Web\\ConcertApp.Web.csproj|solutionrelative:concertapp.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDC88CB-03E1-4FFF-9E89-4120CCAE5647}|ConcertApp.Web\\ConcertApp.Web.csproj|c:\\users\\dejan\\desktop\\fakultet\\3 godina\\semestar 6\\integrirani sistemi\\repos\\concertapp\\concertapp\\concertapp.web\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDC88CB-03E1-4FFF-9E89-4120CCAE5647}|ConcertApp.Web\\ConcertApp.Web.csproj|solutionrelative:concertapp.web\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\ConcertApp\\ConcertApp\\ConcertApp.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ConcertApp.Web\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\ConcertApp\\ConcertApp\\ConcertApp.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ConcertApp.Web\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T18:45:41.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\ConcertApp\\ConcertApp\\ConcertApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ConcertApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\ConcertApp\\ConcertApp\\ConcertApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ConcertApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T18:42:01.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Concert.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\ConcertApp\\ConcertApp\\ConcertApp.Web\\Models\\Concert.cs",
+              "RelativeDocumentMoniker": "ConcertApp.Web\\Models\\Concert.cs",
+              "ToolTip": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\ConcertApp\\ConcertApp\\ConcertApp.Web\\Models\\Concert.cs",
+              "RelativeToolTip": "ConcertApp.Web\\Models\\Concert.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T18:02:27.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\ConcertApp\\ConcertApp\\ConcertApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "ConcertApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\ConcertApp\\ConcertApp\\ConcertApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "ConcertApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAUwH4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T13:25:18.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\ConcertApp\\ConcertApp\\ConcertApp.Web\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ConcertApp.Web\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\ConcertApp\\ConcertApp\\ConcertApp.Web\\Models\\User.cs",
+              "RelativeToolTip": "ConcertApp.Web\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T13:25:12.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\ConcertApp\\ConcertApp\\ConcertApp.Web\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "ConcertApp.Web\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\ConcertApp\\ConcertApp\\ConcertApp.Web\\Models\\Ticket.cs",
+              "RelativeToolTip": "ConcertApp.Web\\Models\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T13:23:53.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\ConcertApp\\ConcertApp\\ConcertApp.Web\\Views\\ConcertTickets\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConcertApp.Web\\Views\\ConcertTickets\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\ConcertApp\\ConcertApp\\ConcertApp.Web\\Views\\ConcertTickets\\Index.cshtml",
+              "RelativeToolTip": "ConcertApp.Web\\Views\\ConcertTickets\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T12:49:12.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConcertTicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\ConcertApp\\ConcertApp\\ConcertApp.Web\\Controllers\\ConcertTicketsController.cs",
+              "RelativeDocumentMoniker": "ConcertApp.Web\\Controllers\\ConcertTicketsController.cs",
+              "ToolTip": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\ConcertApp\\ConcertApp\\ConcertApp.Web\\Controllers\\ConcertTicketsController.cs",
+              "RelativeToolTip": "ConcertApp.Web\\Controllers\\ConcertTicketsController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDgAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T12:41:03.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\ConcertApp\\ConcertApp\\ConcertApp.Web\\Views\\Concerts\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConcertApp.Web\\Views\\Concerts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\ConcertApp\\ConcertApp\\ConcertApp.Web\\Views\\Concerts\\Index.cshtml",
+              "RelativeToolTip": "ConcertApp.Web\\Views\\Concerts\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvxoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T12:30:20.39Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

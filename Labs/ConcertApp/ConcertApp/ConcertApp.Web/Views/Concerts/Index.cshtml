@@ -1,0 +1,52 @@
+﻿@model IEnumerable<ConcertApp.Web.Models.Concert>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+ @{
+     var i = 0;
+<div class="container">
+
+        <div class="m-3 d-flex justify-content-between" >
+            <a class="btn btn-success m-3" asp-action="Create">Create New</a>
+            <a class="btn btn-success m-3" href="/ConcertTickets/Create">Buy A Ticket</a>
+        </div>
+
+    @foreach (var item in Model)
+    {
+
+        if(i%3==0)
+        {
+            @:<div class="row d-flex justify-content-around" >
+        }
+
+          <div class="col-md-3 m-4" >
+              <div class="card" style="width:15rem; height:25rem;">
+                 <img class="card-img-top" src="@item.ConcertImgUrl" style="width:auto; height:auto" />
+             <div class="card-body">
+                  <h5 class="card-title">@item.ConcertName</h5>
+                  <p class="card-text">@item.ConcertDate</p>
+                  <p class="card-text">@item.ConcertLocation</p>
+                  <p class="card-text">@item.ConcertPrice EUR</p>
+
+              </div>
+
+              <div class="card-footer">
+                        <a class="btn btn-secondary " asp-action="Edit" asp-route-id="@item.Id">Edit</a> 
+                        <a class="btn btn-info " asp-action="Details" asp-route-id="@item.Id">Details</a>
+                        <a class="btn btn-danger " asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+              </div> 
+             </div>
+
+
+          </div>
+        if(i%3==2)
+        {
+            @:</div>
+        }
+        i++;
+
+    }
+</div>
+}

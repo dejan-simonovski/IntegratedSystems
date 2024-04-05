@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\dejan\\desktop\\fakultet\\3 godina\\semestar 6\\integrirani sistemi\\repos\\movieapp\\movieapp\\movieapp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\dejan\\desktop\\fakultet\\3 godina\\semestar 6\\integrirani sistemi\\repos\\movieapp\\movieapp\\movieapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\dejan\\desktop\\fakultet\\3 godina\\semestar 6\\integrirani sistemi\\repos\\movieapp\\movieapp\\movieapp\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\dejan\\desktop\\fakultet\\3 godina\\semestar 6\\integrirani sistemi\\repos\\movieapp\\movieapp\\movieapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\MovieApp Dejan\\MovieApp\\MovieApp\\Migrations\\20240403095740_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\dejan\\desktop\\fakultet\\3 godina\\semestar 6\\integrirani sistemi\\repos\\movieapp\\movieapp\\movieapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\dejan\\desktop\\fakultet\\3 godina\\semestar 6\\integrirani sistemi\\repos\\movieapp\\movieapp\\movieapp\\models\\eshopapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\eshopapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\dejan\\desktop\\fakultet\\3 godina\\semestar 6\\integrirani sistemi\\repos\\movieapp\\movieapp\\movieapp\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\dejan\\desktop\\fakultet\\3 godina\\semestar 6\\integrirani sistemi\\repos\\movieapp\\movieapp\\movieapp\\models\\ticketinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\ticketinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\dejan\\desktop\\fakultet\\3 godina\\semestar 6\\integrirani sistemi\\repos\\movieapp\\movieapp\\movieapp\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\dejan\\desktop\\fakultet\\3 godina\\semestar 6\\integrirani sistemi\\repos\\movieapp\\movieapp\\movieapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\dejan\\desktop\\fakultet\\3 godina\\semestar 6\\integrirani sistemi\\repos\\movieapp\\movieapp\\movieapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\dejan\\desktop\\fakultet\\3 godina\\semestar 6\\integrirani sistemi\\repos\\movieapp\\movieapp\\movieapp\\models\\dto\\addtoorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\dto\\addtoorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\dejan\\desktop\\fakultet\\3 godina\\semestar 6\\integrirani sistemi\\repos\\movieapp\\movieapp\\movieapp\\views\\tickets\\addtickettoorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\views\\tickets\\addtickettoorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\dejan\\desktop\\fakultet\\3 godina\\semestar 6\\integrirani sistemi\\repos\\movieapp\\movieapp\\movieapp\\migrations\\20240405091034_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\migrations\\20240405091034_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\Models\\Order.cs",
+              "RelativeToolTip": "MovieApp\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T14:41:14.747Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\appsettings.json",
+              "RelativeToolTip": "MovieApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-05T09:10:49.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240405091034_init.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\Migrations\\20240405091034_init.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Migrations\\20240405091034_init.cs",
+              "ToolTip": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\Migrations\\20240405091034_init.cs",
+              "RelativeToolTip": "MovieApp\\Migrations\\20240405091034_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:10:35.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "MovieApp\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAswP4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T14:33:38.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MovieApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T14:31:42.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\Models\\Ticket.cs",
+              "RelativeToolTip": "MovieApp\\Models\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T14:42:52.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EShopApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\Models\\EShopApplicationUser.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\EShopApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\Models\\EShopApplicationUser.cs",
+              "RelativeToolTip": "MovieApp\\Models\\EShopApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T21:12:37.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TicketInOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\Models\\TicketInOrder.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\TicketInOrder.cs",
+              "ToolTip": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\Models\\TicketInOrder.cs",
+              "RelativeToolTip": "MovieApp\\Models\\TicketInOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T14:42:56.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "MovieApp\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T14:48:03.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "MovieApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAADwv2MAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T14:35:53.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "MovieApp\\Controllers\\TicketsController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAQwFoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T19:12:41.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240403095740_init2.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\MovieApp Dejan\\MovieApp\\MovieApp\\Migrations\\20240403095740_init2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\MovieApp Dejan\\MovieApp\\MovieApp\\Migrations\\20240403095740_init2.cs",
+              "ToolTip": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\MovieApp Dejan\\MovieApp\\MovieApp\\Migrations\\20240403095740_init2.cs",
+              "RelativeToolTip": "..\\..\\..\\MovieApp Dejan\\MovieApp\\MovieApp\\Migrations\\20240403095740_init2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:57:40.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddTicketToOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\Views\\Tickets\\AddTicketToOrder.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Views\\Tickets\\AddTicketToOrder.cshtml",
+              "ToolTip": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\Views\\Tickets\\AddTicketToOrder.cshtml",
+              "RelativeToolTip": "MovieApp\\Views\\Tickets\\AddTicketToOrder.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T21:03:35.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddToOrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\Models\\DTO\\AddToOrderDTO.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\DTO\\AddToOrderDTO.cs",
+              "ToolTip": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\Models\\DTO\\AddToOrderDTO.cs",
+              "RelativeToolTip": "MovieApp\\Models\\DTO\\AddToOrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T20:42:00.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Dejan\\Desktop\\Fakultet\\3 Godina\\Semestar 6\\Integrirani sistemi\\repos\\MovieApp\\MovieApp\\MovieApp\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieApp\\Models\\Movie.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T14:43:09.39Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
